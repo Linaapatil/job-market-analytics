@@ -1,0 +1,246 @@
+﻿work_year,experience_level,job_title,salary_in_usd,remote_ratio,company_location,company_size
+2021,EN,Data Science Consultant,64369,50,DE,L
+2020,SE,Data Scientist,68428,100,US,L
+2021,EX,Head of Data Science,85000,0,RU,M
+2021,EX,Head of Data,230000,50,RU,L
+2021,EN,Machine Learning Engineer,125000,100,US,S
+2021,SE,Data Analytics Manager,120000,100,US,M
+2020,MI,Research Scientist,450000,0,US,M
+2020,MI,Data Analyst,46759,50,FR,L
+2020,MI,Data Engineer,74130,50,AT,L
+2021,SE,Data Science Engineer,127543,50,CA,L
+2021,SE,Manager Data Science,144000,100,US,L
+2021,EN,Data Scientist,13400,100,UA,L
+2021,MI,Data Scientist,75966,100,CA,L
+2021,MI,Data Scientist,150000,100,US,M
+2020,MI,Data Science Consultant,103000,100,US,L
+2021,SE,Data Engineering Manager,153000,100,US,L
+2021,MI,Data Engineer,90000,100,US,L
+2021,EN,Data Analyst,90000,100,US,S
+2021,EN,Data Analyst,60000,100,US,S
+2021,MI,Data Scientist,50000,100,NG,L
+2021,EN,AI Scientist,12000,100,US,M
+2021,MI,3D Computer Vision Researcher,5423,50,IN,M
+2021,MI,ML Engineer,270000,100,US,L
+2021,MI,Applied Data Scientist,54376,50,CA,L
+2021,MI,Machine Learning Engineer,47681,100,ES,S
+2021,EX,Director of Data Science,154963,100,PL,L
+2021,MI,Data Engineer,28801,100,PL,L
+2021,MI,Data Analytics Engineer,110000,100,US,L
+2021,EN,Research Scientist,83000,50,GB,L
+2020,EN,Machine Learning Engineer,250000,50,US,L
+2021,EN,Data Analyst,59601,50,FR,M
+2021,SE,Data Analyst,80000,100,US,S
+2020,EN,Data Analyst,10000,100,NG,S
+2020,EN,Machine Learning Engineer,138000,100,US,S
+2021,MI,Data Engineer,140000,100,US,L
+2021,SE,Data Analytics Engineer,79866,100,DE,L
+2021,SE,Lead Data Analyst,170000,100,US,L
+2021,EN,Data Analyst,80000,100,US,M
+2020,MI,Data Scientist,45760,100,US,S
+2021,MI,BI Data Analyst,100000,100,US,M
+2021,SE,Data Scientist,53641,50,FR,L
+2021,EX,Head of Data,235000,100,US,L
+2021,EX,BI Data Analyst,150000,100,US,L
+2020,EX,Data Engineering Manager,79833,50,ES,L
+2021,EN,Machine Learning Scientist,225000,100,US,L
+2021,EN,Data Science Consultant,77481,100,DE,S
+2020,MI,Machine Learning Infrastructure Engineer,50180,0,PT,M
+2021,SE,Marketing Data Analyst,89402,100,DK,L
+2021,SE,Lead Data Engineer,103750,100,GB,S
+2021,SE,Director of Data Engineering,114125,100,GB,M
+2021,SE,Machine Learning Engineer,95362,50,DE,L
+2021,EN,Data Engineer,30509,100,IN,L
+2021,SE,Data Engineer,150000,100,US,M
+2021,SE,Data Engineer,115000,100,US,S
+2021,MI,Research Scientist,187917,100,CA,L
+2021,MI,Data Analyst,51814,50,GB,L
+2020,MI,Data Engineer,106000,100,US,L
+2020,MI,Data Engineer,112872,50,GB,L
+2021,MI,BI Data Analyst,36732,50,US,L
+2021,SE,Data Engineer,150000,100,US,L
+2020,EN,ML Engineer,15966,100,DE,S
+2021,MI,Computer Vision Software Engineer,96554,100,US,S
+2021,EN,Computer Vision Software Engineer,70000,100,US,M
+2021,MI,Financial Data Analyst,450000,100,US,L
+2020,MI,Data Scientist,76958,100,GB,S
+2021,MI,Cloud Data Engineer,89514,50,SG,L
+2021,EN,Data Scientist,29831,50,IN,L
+2021,SE,Lead Data Engineer,276000,0,US,L
+2020,SE,Data Engineer,188000,100,US,L
+2021,SE,Cloud Data Engineer,160000,100,US,S
+2020,MI,Data Scientist,105000,100,US,L
+2021,MI,Data Engineer,200000,100,US,L
+2021,SE,Data Engineering Manager,174000,100,US,L
+2021,MI,Data Analyst,93000,100,US,L
+2021,EN,Data Scientist,28475,100,IN,M
+2021,SE,Research Scientist,61270,50,PT,L
+2021,EN,Data Scientist,90000,100,US,S
+2020,MI,Data Engineer,70139,50,FR,L
+2020,EN,Data Analyst,6072,0,IN,S
+2020,SE,Data Engineer,33511,0,MX,S
+2021,SE,Principal Data Analyst,170000,100,US,M
+2021,SE,Data Engineer,96833,50,GB,L
+2021,MI,Data Engineer,13105,0,TR,M
+2021,EN,Data Scientist,36952,50,FR,L
+2021,MI,Data Engineer,72625,50,GB,L
+2020,EN,Data Analyst,91000,100,US,L
+2021,SE,Big Data Architect,99956,50,CA,M
+2021,SE,Data Scientist,165000,100,US,L
+2021,MI,Data Analyst,80000,100,US,L
+2021,SE,Data Scientist,103954,100,CA,L
+2021,EN,Data Engineer,21695,50,IN,M
+2020,EN,Research Scientist,42000,50,NL,L
+2020,MI,Lead Data Scientist,115000,0,AE,L
+2021,MI,Research Scientist,63971,100,CA,M
+2020,SE,Machine Learning Scientist,260000,0,JP,S
+2021,MI,Head of Data Science,110000,0,US,S
+2021,MI,Data Architect,180000,100,US,L
+2021,SE,Data Analyst,200000,100,US,L
+2020,SE,Big Data Engineer,109024,50,GB,M
+2021,SE,Director of Data Engineering,200000,100,US,L
+2021,SE,ML Engineer,256000,100,US,S
+2021,MI,Data Engineer,110000,100,US,L
+2020,MI,Data Scientist,79833,0,DE,L
+2021,EN,Data Engineer,72500,100,US,L
+2021,SE,Machine Learning Engineer,185000,50,US,L
+2021,MI,Data Engineer,70329,100,NL,L
+2021,EN,Research Scientist,100000,0,CN,L
+2021,MI,Data Engineer,112000,100,US,L
+2020,SE,Machine Learning Engineer,150000,50,US,L
+2021,SE,Data Scientist,21843,50,TR,L
+2021,SE,AI Scientist,55000,100,ES,L
+2021,EN,Data Scientist,58000,50,US,L
+2021,EN,Data Scientist,100000,100,US,M
+2021,SE,Data Scientist,78340,50,FR,M
+2021,EN,Machine Learning Engineer,85000,100,DE,S
+2021,EN,Data Science Consultant,77481,0,DE,L
+2021,SE,Staff Data Scientist,105000,100,US,M
+2020,EN,Data Analyst,72000,100,US,L
+2021,EN,Data Engineer,65561,50,DE,M
+2021,MI,Data Engineer,30337,100,TR,M
+2021,MI,Data Engineer,111775,0,US,M
+2021,MI,Data Engineer,93150,0,US,M
+2021,SE,Lead Data Engineer,160000,50,US,S
+2021,MI,Data Scientist,25747,100,DE,S
+2021,SE,Machine Learning Engineer,66442,0,IN,L
+2021,MI,Data Scientist,16949,100,IN,S
+2021,SE,Data Analyst,64369,50,DE,L
+2020,SE,Lead Data Scientist,190000,100,US,S
+2021,EX,Director of Data Science,143043,0,DE,L
+2021,EN,Big Data Engineer,16271,100,IN,L
+2021,SE,Data Analyst,71968,100,CA,M
+2020,MI,Data Scientist,35735,50,HU,L
+2021,SE,Data Scientist,135000,0,US,L
+2021,EN,Machine Learning Engineer,25032,50,DE,M
+2021,SE,Data Science Manager,54238,50,US,L
+2021,SE,Machine Learning Engineer,24407,100,IN,L
+2021,EN,BI Data Analyst,9272,100,KE,S
+2021,MI,Data Scientist,147000,50,US,L
+2021,SE,Research Scientist,96357,50,CA,L
+2021,SE,Data Science Manager,174000,100,US,L
+2020,MI,Business Data Analyst,135000,100,US,L
+2021,EN,Machine Learning Engineer,21844,50,CO,M
+2020,SE,Lead Data Engineer,125000,50,NZ,S
+2020,EN,Data Scientist,51321,0,FR,S
+2020,MI,Data Scientist,40481,0,IN,L
+2021,EX,Data Science Consultant,70329,100,ES,S
+2021,SE,Data Analytics Engineer,50000,100,GB,M
+2021,MI,Data Engineer,4000,100,IR,M
+2020,EN,Data Scientist,39916,0,FR,M
+2020,MI,Lead Data Analyst,87000,100,US,L
+2021,MI,Data Engineer,26224,0,US,L
+2021,MI,Data Scientist,91500,50,DE,L
+2021,MI,Big Data Engineer,22671,0,IN,L
+2021,MI,Data Scientist,5695,100,US,S
+2021,EN,Machine Learning Engineer,81000,50,US,S
+2021,MI,Data Scientist,40798,100,CL,L
+2021,MI,Data Scientist,2876,0,MX,S
+2021,EN,Data Science Consultant,90000,100,US,S
+2021,MI,Data Scientist,61985,50,AT,M
+2021,SE,Machine Learning Infrastructure Engineer,195000,100,US,M
+2021,MI,Data Scientist,38144,100,ES,L
+2020,MI,Data Analyst,85000,100,US,L
+2021,EX,Principal Data Scientist,416000,100,US,S
+2021,SE,Machine Learning Scientist,225000,100,CA,L
+2021,MI,Data Scientist,56578,50,GB,L
+2021,MI,Data Scientist,33899,0,IN,M
+2021,MI,Data Scientist,117583,50,GB,L
+2021,MI,Machine Learning Engineer,47129,100,PL,L
+2020,MI,Data Analyst,8000,50,PK,L
+2020,EN,Data Engineer,41689,100,JP,S
+2020,SE,Big Data Engineer,114047,100,GB,S
+2021,MI,Machine Learning Engineer,89402,100,BE,M
+2020,EN,Data Science Consultant,5707,50,IN,M
+2020,MI,Lead Data Engineer,56000,100,US,M
+2021,EN,Computer Vision Engineer,28850,50,DK,S
+2021,MI,Data Scientist,89402,50,DE,L
+2020,MI,Machine Learning Engineer,43331,0,CN,M
+2020,MI,Product Data Analyst,6072,100,IN,L
+2020,SE,Data Engineer,47899,50,GR,L
+2020,MI,BI Data Analyst,98000,0,US,M
+2021,MI,Data Engineer,66400,50,GB,S
+2021,MI,Research Scientist,57217,50,FR,S
+2021,MI,Machine Learning Engineer,25032,50,SI,L
+2021,SE,Data Analytics Manager,120000,0,US,L
+2021,MI,Data Engineer,20000,0,US,L
+2020,EX,Director of Data Science,325000,100,US,L
+2021,SE,Machine Learning Engineer,200000,100,US,L
+2020,EN,AI Scientist,45896,50,DK,S
+2021,MI,Data Scientist,160000,100,US,L
+2021,SE,Research Scientist,50000,100,US,S
+2021,MI,Data Science Engineer,40529,100,GR,M
+2021,EX,Principal Data Engineer,600000,100,US,L
+2021,MI,Data Scientist,13000,0,BR,S
+2021,SE,Data Engineer,165000,0,US,M
+2021,EN,Big Data Engineer,5898,0,CH,L
+2020,MI,Data Scientist,42197,50,FR,S
+2021,SE,Principal Data Engineer,185000,100,US,L
+2020,EN,Data Scientist,62726,50,DE,S
+2021,MI,Data Scientist,91500,50,DE,L
+2020,EN,Data Scientist,21669,50,IT,S
+2020,MI,Data Engineer,110000,100,US,L
+2021,SE,Data Analytics Manager,140000,100,US,L
+2020,SE,Data Scientist,120000,50,US,L
+2021,SE,Data Scientist,87961,100,CA,S
+2021,SE,Finance Data Analyst,62250,50,GB,L
+2021,MI,Machine Learning Scientist,12000,50,PK,M
+2021,SE,Data Engineer,77481,50,GB,S
+2021,MI,Machine Learning Engineer,74000,50,JP,S
+2021,SE,Data Science Manager,152000,100,FR,L
+2021,MI,Big Data Engineer,18000,0,MD,S
+2020,SE,Computer Vision Engineer,60000,100,US,S
+2021,MI,Data Scientist,130000,50,US,L
+2021,SE,Computer Vision Engineer,19052,0,BR,M
+2021,EN,Business Data Analyst,59601,100,LU,L
+2021,SE,Principal Data Scientist,175228,100,DE,M
+2020,SE,Principal Data Scientist,148261,100,DE,M
+2020,MI,Data Scientist,38776,100,ES,M
+2021,MI,Data Scientist,47204,100,ES,M
+2021,EN,Data Scientist,4000,0,VN,M
+2021,EN,AI Scientist,18102,100,AS,S
+2020,SE,Data Scientist,91237,0,AT,S
+2020,MI,Data Scientist,62726,50,LU,S
+2021,MI,Data Scientist,115000,50,US,L
+2021,SE,Principal Data Scientist,235000,100,US,L
+2021,MI,Lead Data Analyst,19661,100,IN,L
+2021,EN,AI Scientist,12000,100,US,S
+2021,MI,Data Analyst,75000,0,US,L
+2021,MI,Data Analyst,62000,0,US,L
+2021,MI,Data Scientist,73000,0,US,L
+2021,MI,Data Engineer,45773,100,NL,L
+2020,SE,Data Science Manager,190200,100,US,M
+2020,MI,Data Scientist,118000,100,US,M
+2020,MI,Data Scientist,138350,100,US,M
+2020,MI,Data Engineer,130800,100,US,M
+2020,SE,Machine Learning Engineer,45618,100,HR,S
+2021,SE,Director of Data Science,168000,0,JP,S
+2021,MI,Data Scientist,119353,100,IL,M
+2021,MI,Applied Machine Learning Scientist,423000,50,US,L
+2021,MI,Data Engineer,28608,50,MT,L
+2021,SE,Data Specialist,165000,100,US,L
+2020,SE,Data Scientist,412000,100,US,L
+2021,MI,Principal Data Scientist,151000,100,US,L
+2020,EN,Data Scientist,105000,100,US,S
+2020,EN,Business Data Analyst,100000,100,US,L
+2021,SE,Data Science Manager,94917,50,IN,L
