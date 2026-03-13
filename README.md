@@ -21,8 +21,8 @@ The dashboard highlights key insights such as the highest-paying data roles, sal
 ## Dashboard Preview
 
 
+![Dashboard Preview](dashboard.png)
 
-![Dashboard](dashboard/dashboard.png)
 
 ---
 
